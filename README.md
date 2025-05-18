@@ -56,6 +56,7 @@ This project implements a **real-time monitoring system** for a footstep-based p
 - **Spring Deflection**
 
 ---
+![Functional Block Diagram](Functional%20block%20diagram.jpg)
 
 ## ⚙️ How It Works
 
